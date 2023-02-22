@@ -6,7 +6,7 @@ mutation addClient($name: String!, $email: String!, $phone: String!) {
     id
     name 
     email
-    form
+    phone
   }
 }
 `;
